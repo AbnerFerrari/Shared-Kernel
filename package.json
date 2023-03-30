@@ -1,0 +1,11 @@
+{
+  "name": "@abner-ferrari/shared-kernel",
+  "version": "1.0.0",
+  "description": "Common structure across backend applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
